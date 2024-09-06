@@ -4,7 +4,7 @@ This script generates an HTML file displaying your Git commit history in a calen
 
 <p align="center" margin="0">
     <a href="https://www.diego-tellez.com/">
-    <img alt="stuart logo" src="./calendar_view.png" width="300">
+    <img alt="stuart logo" src="./calendar_view.png" width="600">
 </a>
 </p>
 
