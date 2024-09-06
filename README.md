@@ -14,7 +14,7 @@ This script generates an HTML file displaying your Git commit history in a calen
 3. Make sure the script has execution permissions. You can set the permission using:
 
     ```bash
-    chmod +x git_commit_calendar.sh
+    chmod +x generate_git_calendar.sh
     ```
 
 ## Usage
@@ -22,7 +22,7 @@ This script generates an HTML file displaying your Git commit history in a calen
 1. Run the script from the terminal at the root of the repo:
 
     ```bash
-    ./git_commit_calendar.sh
+    ./generate_git_calendar.sh
     ```
 
 2. The script will generate an HTML file named `git_commit_calendar.html` in the current directory.
