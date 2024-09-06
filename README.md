@@ -2,6 +2,12 @@
 
 This script generates an HTML file displaying your Git commit history in a calendar format. The generated HTML includes the commit date, author name, and commit message, which are visualized on an interactive calendar.
 
+<p align="center" margin="0">
+    <a href="https://www.diego-tellez.com/">
+    <img alt="stuart logo" src="./calendar_view.png" width="300">
+</a>
+</p>
+
 ## Prerequisites
 
 - **Git**: The script uses the `git log` command to retrieve the commit history. Make sure Git is installed and the script is run inside a Git repository.
